@@ -1,0 +1,11 @@
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\bin\Debug\Notas.exe.config
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\bin\Debug\Notas.exe
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\bin\Debug\Notas.pdb
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.csprojAssemblyReference.cache
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.Home.resources
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.exe
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.pdb
+A:\Programação\Projetos do visual studio\Notas simples\Notas\Notas\obj\Debug\Notas.FrmNovoArquivo.resources
